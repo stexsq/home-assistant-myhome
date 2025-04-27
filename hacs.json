@@ -1,0 +1,9 @@
+{
+  "name": "MyHome OpenWebNet",
+  "content_in_root": true,
+  "domain": "myhome",
+  "documentation": "https://github.com/stexsq/home-assistant-myhome",
+  "requirements": [],
+  "version": "1.0.0",
+  "render_readme": false
+}
