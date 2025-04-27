@@ -1,0 +1,9 @@
+{
+  "domain": "myhome",
+  "name": "MyHome OpenWebNet",
+  "version": "1.0.0",
+  "documentation": "https://github.com/TUO_USERNAME/home-assistant-myhome",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@stexsq"]
+}
